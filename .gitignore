@@ -1,0 +1,6 @@
+
+*.plist
+
+file-server.dSYM/Contents/Resources/DWARF/file-server
+
+file-server
